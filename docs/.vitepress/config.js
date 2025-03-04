@@ -1,4 +1,6 @@
-export default {
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
   title: "UNNC-FAB-2025",
   description: "UNNC-FAB-2025 Documentation",
   themeConfig: {
@@ -14,4 +16,4 @@ export default {
       }
     ]
   }
-}
+})
