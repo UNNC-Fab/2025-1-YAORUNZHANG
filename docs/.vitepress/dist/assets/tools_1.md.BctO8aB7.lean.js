@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as e,ae as r}from"./chunks/framework.ByoDMBP9.js";const b=JSON.parse('{"title":"FAB实验室工具使用指南","description":"","frontmatter":{},"headers":[],"relativePath":"tools/1.md","filePath":"tools/1.md"}'),t={name:"tools/1.md"};function o(h,l,n,d,u,s){return e(),a("div",null,l[0]||(l[0]=[r("",19)]))}const _=i(t,[["render",o]]);export{b as __pageData,_ as default};
