@@ -22,7 +22,7 @@ export default defineConfig({
       {
         text: 'Documentation',
         items: [
-          { text: '2025', link: '/projects/2025.md' }
+          { text: 'UNNC-FAB 2025', link: '/projects/2025.md' }
         ]
       },
       {
