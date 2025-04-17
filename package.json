@@ -22,5 +22,9 @@
   "homepage": "https://github.com/UNNC-Fab/2025-1-YAORUNZHANG#readme",
   "dependencies": {
     "vitepress": "^1.6.3"
+  },
+  "private": true,  
+  "engines": {
+    "node": ">=18.0.0"  
   }
 }
