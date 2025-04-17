@@ -4,8 +4,6 @@ hero:
   name: UNNC-FAB Member Yaorun Zhang
   text: Teaching Assistant for UNNC-FAB
   tagline: Welcome to my UNNC-FAB information page.
-  image:
-    src: /images/logo.jpg
   actions:
     - theme: brand
       text: Get Started
