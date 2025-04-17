@@ -2,8 +2,12 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base: '/2025-1-YAORUNZHANG/',
-  title: "UNNC-FAB-2025",
-  description: "UNNC-FAB-2025 Documentation",
+  title: "UNNC-FAB",
+  build: {
+    outDir: '../dist'
+  },
+  description: "UNNC-FAB Documentation",
+  outDir: '.vitepress/dist',
   themeConfig: {
     logo: '/images/logo.svg',
     nav: [
@@ -17,18 +21,20 @@ export default defineConfig({
         text: 'Guide',
         items: [
           { text: 'Introduction', link: '/introduction' },
-          { text: 'About Me', link: '/about/' },
-        ],
-        
+          { text: 'About Me', link: '/about/' }
+        ]
+      },
+      {
         text: 'Documentation',
         items: [
-          { text: '2025', link: '/projects/2025.md' },
-        ],
-
+          { text: 'UNNC-FAB 2025', link: '/projects/2025.md' }
+        ]
+      },
+      {
         text: 'Tools',
         items: [
-          { text: '2025', link: '/tools/1.md' },
-        ],
+          { text: '2025', link: '/tools/1.md' }
+        ]
       }
     ]
   }
