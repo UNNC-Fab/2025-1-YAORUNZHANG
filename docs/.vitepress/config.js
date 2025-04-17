@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Documentation', link: '/projects/2025.md' },
-      { text: 'Tools', link: '/tools/1.md' },
+      { text: 'Tools', link: '/tools/2025.md' },
       { text: 'About Me', link: '/about/' },
     ],
     sidebar: [
