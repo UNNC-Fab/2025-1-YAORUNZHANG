@@ -17,5 +17,5 @@ I am a Teaching Assistant passionate about digital manufacturing and innovative 
 
 If you have any questions, please feel free to contact me:
 
-- Email: [yaorun.zhang@nottingham.edu.cn]
-- Office: [University of Nottingham Ningbo China, IMET 301]
+- Email:  yaorun.zhang@nottingham.edu.cn
+- Office:  University of Nottingham Ningbo China, IMET 301
