@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/2025-1-YAORUNZHANG',
+  base: '/2025-1-YAORUNZHANG/',
   title: "UNNC-FAB Yaorun",
   description: "UNNC-FAB Yaorun",
   themeConfig: {
