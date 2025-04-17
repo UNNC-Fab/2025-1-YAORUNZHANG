@@ -17,6 +17,5 @@ I am a Teaching Assistant passionate about digital manufacturing and innovative 
 
 If you have any questions, please feel free to contact me:
 
-- Email: [your.email@nottingham.edu.cn]
-- Office: [FAB Laboratory]
-- Working Hours: [Monday to Friday 9:00-17:00]
+- Email: [yaorun.zhang@nottingham.edu.cn]
+- Office: [University of Nottingham Ningbo China, IMET 301]
