@@ -19,13 +19,13 @@ export default defineConfig({
           { text: 'Introduction', link: '/introduction' },
           { text: 'About Me', link: '/about/' },
         ],
+        text: 'Tools',
+        items: [
+          { text: 'Tools 2025', link: '/tools/2025.md' },
+        ],
         text: 'Documentation',
         items: [
           { text: 'UNNC-FAB 2025', link: '/projects/2025.md' },
-        ],
-        text: 'Tools',
-        items: [
-          { text: 'UNNC-FAB 2025', link: '/tools/1.md' },
         ],
       }
     ]
