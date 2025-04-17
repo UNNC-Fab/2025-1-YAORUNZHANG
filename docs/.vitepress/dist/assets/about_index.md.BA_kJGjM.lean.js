@@ -1,1 +1,0 @@
-import{_ as l,c as i,o as e,ae as t}from"./chunks/framework.ByoDMBP9.js";const b=JSON.parse('{"title":"关于我","description":"","frontmatter":{},"headers":[],"relativePath":"about/index.md","filePath":"about/index.md"}'),r={name:"about/index.md"};function o(n,a,h,u,d,s){return e(),i("div",null,a[0]||(a[0]=[t("",14)]))}const _=l(r,[["render",o]]);export{b as __pageData,_ as default};
