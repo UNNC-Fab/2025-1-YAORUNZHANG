@@ -5,7 +5,7 @@ export default defineConfig({
   title: "UNNC-FAB-2025",
   description: "UNNC-FAB-2025 Documentation",
   build: {
-    outDir: '../dist'
+    outDir: './dist'
   },
   themeConfig: {
     logo: '/images/logo.svg',
