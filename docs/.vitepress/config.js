@@ -2,13 +2,9 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base: '/2025-1-YAORUNZHANG',
-  title: "UNNC-FAB Yaorun Documentation",
-  description: "UNNC-FAB Yaorun Documentation",
-  build: {
-    outDir: './dist'
-  },
+  title: "UNNC-FAB Yaorun",
+  description: "UNNC-FAB Yaorun",
   themeConfig: {
-    logo: '/images/logo.jpg',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Documentation', link: '/projects/2025.md' },
